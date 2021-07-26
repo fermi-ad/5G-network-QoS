@@ -1,0 +1,16 @@
+{
+    "port": "5201",
+    "format": "Mbits",
+    "interval": 1,
+    "json": "true",
+    "udp": "false",
+    "server": "true",
+    "deamon": "true",
+    "pidfile": "pid.txt",
+    "oneoff": "true",
+    "servlog": "ser_log.txt",
+    "servip": "192.168.1.31",
+    "time": 5,
+    "timeout": 100,
+    "clilog": "cli_log.json"
+}
